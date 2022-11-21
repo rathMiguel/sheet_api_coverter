@@ -1,0 +1,15 @@
+{
+  "name": "sheet_api_coverter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gen": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^16.0.1",
+    "node-fetch": "^2.6.7"
+  }
+}
